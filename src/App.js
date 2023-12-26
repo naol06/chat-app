@@ -1,12 +1,12 @@
 
 import './App.css';
-import Register from './Register';
+import Home from './Home';
 import "./Style.scss";
 function App() {
   return (
     <div className="App">
-    <Register/>
-      <h1>NAOL BERHANU</h1>
+    <Home/>
+    
     </div>
   );
 }
